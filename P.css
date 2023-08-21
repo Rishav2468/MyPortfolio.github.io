@@ -192,7 +192,11 @@ section .title::after {
 /* home section styling */
 .home {
     display: flexbox;
+<<<<<<< HEAD
     background: url("images/final-banner.jpg") no-repeat center;
+=======
+background: url("images/profile-final2.jpg") no-repeat center;
+>>>>>>> 7cdd781b60163e1d90d32281410b76391aee0590
     height: 100vh;
     color: white;
     min-height: 500px;
